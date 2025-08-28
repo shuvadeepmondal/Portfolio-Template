@@ -1,4 +1,4 @@
-# Developer Portfolio
+# Developer Portfolio Template
 
 A professional portfolio website built with Next.js, TypeScript, and Tailwind CSS.
 
